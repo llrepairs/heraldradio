@@ -1,4 +1,4 @@
-# heraldradio
+# Heraldradio
 Heraldradio.com player for the RPi
 
 #Before git
