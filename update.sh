@@ -1,5 +1,5 @@
 sudo apt-get update
-sudo apt-get install vlc
+sudo apt-get -y install vlc
 sudo cp heraldradio /etc/init.d/heraldradio
 sudo chmod ugo+x /etc/init.d/heraldradio
 sudo update-rc.d heraldradio defaults
