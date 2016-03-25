@@ -16,7 +16,7 @@
 case "$1" in 
     start)
         echo "Starting heraldradio"
-        /home/anon/herald/herald.sh
+        /home/pi/herald/herald.sh
         ;;
     stop)
         echo "Stopping heraldradio"
