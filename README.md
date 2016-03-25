@@ -1,5 +1,5 @@
 # heraldradio
-Heraldradio.com player attempt for the RPi
+Heraldradio.com player for the RPi
 
 #Before git
 sudo apt-get install git <br>
