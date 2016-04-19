@@ -8,6 +8,4 @@ sudo rm /etc/rc.local
 sudo cp rc.local /etc/rc.local
 sudo chown root /etc/rc.local
 sudo chmod 755 /etc/rc.local
-sudo apt-get -y install rpi-update
-sudo rpi-update
 sudo reboot
